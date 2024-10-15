@@ -1,13 +1,13 @@
 This repository will serve as a personal tracker for my ambitious goal: building 52 projects in 52 weeks. Each week, I will develop a new project using a variety of modern tech stacks, with a focus on both front-end and back-end technologies. The goal is to gain deeper hands-on experience with frameworks, libraries, and databases while building useful, creative, or experimental projects.
 
 Tech Stacks to Explore:
-Frontend:
+### Frontend:
  - Next.js
  - Nuxt.js
-Backend:
+### Backend:
  - Node.js
  - Go
-Databases:
+### Databases:
  - SQL
  - PostgreSQL
  - MongoDB
