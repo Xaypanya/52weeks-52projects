@@ -13,5 +13,7 @@ Tech Stacks to Explore:
  - MongoDB
 
 ## 1. Sass Landing Page 
- - Status: Working on it 💫
+ - Status: Launch 🚀
  - Resource: https://youtu.be/7hi5zwO75yc?list=PL14l0xtJ8D_8_xX6YYeN1RM67kuw_3CBz 
+ - Repo: https://github.com/Xaypanya/saas-landing
+ - Deployment: https://supa-saas-landing.netlify.app
